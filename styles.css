@@ -1,0 +1,24 @@
+h1{
+color: rgb(44, 79, 233);
+font-size: 24px;
+font-weight: bold;
+text-align: center;
+}
+h2{
+    color: rgb(34, 69, 223);
+font-size: 20px;
+font-weight: normal;
+text-align: left;
+}
+h3{
+    color: rgb(24, 59, 213);
+    font-size: 16px;
+    font-weight: normal;
+    text-align: right;
+}
+h4{
+    color: rgb(14, 49, 203);
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+}
